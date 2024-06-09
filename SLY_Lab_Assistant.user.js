@@ -4,7 +4,7 @@
 // @version      0.4.3
 // @description  try to take over the world!
 // @author       SLY w/ Contributions by SkyLove512, anthonyra, niofox
-// @match        https://*.labs.staratlas.com/
+// @match        https://*.based.staratlas.com/
 // @require      https://unpkg.com/@solana/web3.js@latest/lib/index.iife.min.js
 // @require      https://raw.githubusercontent.com/michelemelli/Lab-Assistant.09.06.24/main/anchor-browserified.js
 // @require      https://raw.githubusercontent.com/michelemelli/Lab-Assistant.09.06.24/main/buffer-browserified.js
